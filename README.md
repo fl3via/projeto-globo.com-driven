@@ -3,11 +3,13 @@
 
 
 
-<h1 align="center">Projeto Globo.com</h1>
+<h1 align="center">Globo.com</h1>
 
 <p align="justify">O projeto consiste em aplicar o layout de uma versão simplificada da home do globo.com, utilizando HTML e CSS.</p>
 <hr/>
-✅ Requisitos                                - [ ]  Aplicar o layout seguindo o Figma fornecido;
+✅ Requisitos                                
+
+- [ ]  Aplicar o layout seguindo o Figma fornecido;
 
 - [ ]  Utilize a fonte Encode Sans na página. Como não é uma fonte padrão nos computadores, você terá que importá-la na página;
     - Como fazer isso?
